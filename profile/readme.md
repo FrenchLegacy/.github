@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)](https://discord.gg/)
+[![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)](https://discord.gg/btM6eZb9x)
 [![Hypixel](https://img.shields.io/badge/Hypixel-Guilde-FFD700)](https://hypixel.net)
 [![GitHub](https://img.shields.io/badge/GitHub-FrenchLegacy-181717?logo=github)](https://github.com/FrenchLegacy)
 
