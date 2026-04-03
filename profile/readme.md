@@ -44,6 +44,12 @@
 ![Motion](https://img.shields.io/badge/Motion-EF008F?logo=framer&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
+<h2>📊 Statistiques</h2>
+
+<br/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tjiba&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117)
+
 <br/><br/>
 
 <sub>Made with ❤️ by the French Legacy dev team</sub>
