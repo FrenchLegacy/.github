@@ -44,15 +44,6 @@
 ![Motion](https://img.shields.io/badge/Motion-EF008F?logo=framer&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white)
 
-<h2>📊 Statistiques</h2>
-
-<br/>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tjiba&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tjiba&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tjiba&theme=github_dark)
-
 <br/><br/>
 
 <sub>Made with ❤️ by the French Legacy dev team</sub>
