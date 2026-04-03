@@ -48,7 +48,10 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tjiba&show_icons=true&theme=dark&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tjiba&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tjiba&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tjiba&theme=github_dark)
 
 <br/><br/>
 
