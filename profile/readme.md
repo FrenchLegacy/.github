@@ -26,40 +26,9 @@
 
 <br/>
 
-<table>
-  <tr>
-    <td align="center" width="140">
-      <a href="https://github.com/EnzoTurpin">
-        <b>EnzoTurpin</b><br/>
-        <sub>Développeur</sub>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://github.com/Fabien83560">
-        <b>Fabien83560</b><br/>
-        <sub>Développeur</sub>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://github.com/Jason54jg">
-        <b>Jason54jg</b><br/>
-        <sub>Développeur</sub>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://github.com/Nakou20">
-        <b>Nakou20</b><br/>
-        <sub>Développeur</sub>
-      </a>
-    </td>
-    <td align="center" width="140">
-      <a href="https://github.com/Tjiba">
-        <b>Tjiba</b><br/>
-        <sub>Développeur</sub>
-      </a>
-    </td>
-  </tr>
-</table>
+**Mainteneur** — [Fabien83560](https://github.com/Fabien83560)
+
+**Développeurs** — [EnzoTurpin](https://github.com/EnzoTurpin) · [Jason54jg](https://github.com/Jason54jg) · [Nakou20](https://github.com/Nakou20) · [Tjiba](https://github.com/Tjiba)
 
 <br/>
 
