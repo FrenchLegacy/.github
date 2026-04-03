@@ -77,6 +77,6 @@
 
 <br/><br/>
 
-<sub>Made with ❤️ by the French Legacy dev team • Hypixel</sub>
+<sub>Made with ❤️ by the French Legacy dev team</sub>
 
 </div>
